@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "ClientProfitCenterTest": {
-      "commandName": "Executable",
-      "executablePath": "C:\\Users\\Killer-App\\source\\repos\\ClientProfitCenterTest\\bin\\Debug\\netcoreapp3.1\\ClientProfitCenterTest.exe",
-      "commandLineArgs": "xmlData.xml"
-    }
-  }
-}
