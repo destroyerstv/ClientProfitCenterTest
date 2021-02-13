@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<XmlData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Multicast>224.0.0.0</Multicast>
+  <Delay>1000</Delay>
+</XmlData>
